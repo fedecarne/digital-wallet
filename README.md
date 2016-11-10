@@ -5,7 +5,7 @@
 3. [Features] (README.md#features)
 5. [Details of implementation] (README.md#details-of-implementation)
 3. [Extra Features] (README.md#extra-features)
-6. [Performance] (README.md#timing)
+6. [Performance] (README.md#performance)
 7. [Tests] (README.md#tests)
 
 ##Dependencies
